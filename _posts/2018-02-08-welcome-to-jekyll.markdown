@@ -25,27 +25,57 @@ i couldn't perform well. Well I've learnt from my mistakes and I'm looking forwa
 </table>
 
 <h2> Notary Node Hardware Specs </h2>
-<div>
-H/W path      Device     Class          Description
-===================================================
-                         system         X9SRE/X9SRE-3F/X9SRi/X9SRi-3F (To be filled by O.E.M.)
-/0                       bus            X9SRE/X9SRE-3F/X9SRi/X9SRi-3F
-/0/0                     memory         64KiB BIOS
-/0/4                     processor      Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
-/0/4/5                   memory         384KiB L1 cache
-/0/4/6                   memory         1536KiB L2 cache
-/0/4/7                   memory         12MiB L3 cache
-/0/29                    memory         64GiB System Memory
-/0/29/0                  memory         16GiB DIMM DDR3 1600 MHz (0.6 ns)
-/0/29/1                  memory         DIMM Synchronous [empty]
-/0/29/2                  memory         16GiB DIMM DDR3 1600 MHz (0.6 ns)
-/0/29/3                  memory         DIMM Synchronous [empty]
-/0/29/4                  memory         16GiB DIMM DDR3 1600 MHz (0.6 ns)
-/0/29/5                  memory         DIMM Synchronous [empty]
-/0/29/6                  memory         16GiB DIMM DDR3 1600 MHz (0.6 ns)
-                         memory         500GB SSD
-</div>
+<table>
+ <tr>
+   <td>processor</td>      
+   <td>Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz</td>
+ </tr>
 
+ <tr>
+   <td>memory</td>         
+   <td>384KiB L1 cache</td>
+ </tr>
 
+ <tr>
+   <td>memory</td>         
+   <td>1536KiB L2 cache</td>
+ </tr>
 
+ <tr>
+   <td>memory</td>         
+   <td>12MiB L3 cache</td>
+ </tr>
 
+ <tr>
+   <td>memory</td>         
+   <td>64GiB System Memory</td>
+ </tr>
+
+ <tr>
+
+  <td> memory</td>         
+  <td>16GiB DIMM DDR3 1600 MHz (0.6 ns)</td>
+
+ </tr>
+
+ <tr>
+  <td>memory</td>
+  <td>16GiB DIMM DDR3 1600 MHz (0.6 ns)</td>
+ </tr>
+
+ <tr>
+   <td>memory</td>         
+   <td>16GiB DIMM DDR3 1600 MHz (0.6 ns)</td>
+ </tr>
+
+ <tr>
+   <td>memory</td>         
+   <td>16GiB DIMM DDR3 1600 MHz (0.6 ns)</td>
+ </tr>
+
+ <tr>
+  <td> SSD memory</td>         
+  <td>500GB SSD</td>
+</tr>
+
+</table>
