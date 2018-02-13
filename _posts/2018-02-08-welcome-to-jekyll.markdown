@@ -26,7 +26,7 @@ categories: jekyll update
 <h2> Region </h2>
 <table>
   <tr> Europe </tr>
-  <tr> EU </tr>
+  <tr> [EU] </tr>
 </table>
 
 <h2> Notary Node Hardware Specs </h2>
