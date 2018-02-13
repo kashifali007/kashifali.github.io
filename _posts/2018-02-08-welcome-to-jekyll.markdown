@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Notary Candidate Profile"
 date:   2018-02-08 17:21:58 +0500
 categories: jekyll update
