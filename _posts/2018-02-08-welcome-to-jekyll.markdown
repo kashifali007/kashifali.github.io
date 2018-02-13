@@ -9,7 +9,7 @@ categories: jekyll update
 <div>My name is Kashif Ali and a dedicated Komodo Notary operator since last year. By profession I'm a software engineer in Test/Automation. My skills & expertise include C, python, Java, Javascript, vbscript, html, APIs(soap/rest), shell programming and shell scripting </div>
 <div>I had joined SuperNET technologies in 2016 as Test Engineer and have been testing IGUANA core through out, which also includes Agama wallet testing as well which was an excellent experience for me to play around stunning technologies.
 </div>
-<div>As a Notary operator, I was elected last year as a notary operator and I'm looking forward to be a Notary operator again!</div>
+<div>As a Notary operator, I was elected last year as a notary operator from Europe and I'm looking forward to be a Notary operator again!</div>
 
 <h2> Voting Detials </h2>
 <table>
@@ -21,6 +21,12 @@ categories: jekyll update
     <td>Raddr</td>
     <td>1G5kXhf4tN9ab42znVGcwVVkN96nQaQBR7</td> 
   </tr>
+</table>
+
+<h2> Region </h2>
+<table>
+  <tr> Europe </tr>
+  <tr> EU </tr>
 </table>
 
 <h2> Notary Node Hardware Specs </h2>
