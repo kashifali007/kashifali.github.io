@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-09T17:25:28+05:00</updated><id>http://localhost:4000/</id><title type="html">KashifAli Notary Election Candidate</title><subtitle></subtitle><entry><title type="html">Portfolio</title><link href="http://localhost:4000/jekyll/update/2018/02/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Portfolio" /><published>2018-02-08T17:21:58+05:00</published><updated>2018-02-08T17:21:58+05:00</updated><id>http://localhost:4000/jekyll/update/2018/02/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/02/08/welcome-to-jekyll.html">&lt;h2&gt; Introduction&lt;/h2&gt;
+&lt;p&gt;Hello and Welcome to my Portfolio.&lt;p&gt; 
+&lt;div&gt;My name is Kashif Ali and a dedicated Komodo Notary operator since last year. By profession I'm a software engineer in Test/Automation. My skills &amp;amp; expertise include C, python, Java, Javascript, vbscript, html, APIs(soap/rest), shell programming and shell scripting &lt;/div&gt;
+&lt;div&gt;I had joined SuperNET technologies in 2016 as Test Engineer and have been testing IGUANA core through out, which also includes Agama wallet testing as well which was an excellent experience for me to play around stunning technologies.
+&lt;/div&gt;
+&lt;div&gt;As a Notary operator, I was elected last year as a notary operator and it was splendid experience for me but a little disappointed because 
+i couldn't perform well. Well I've learnt from my mistakes and I'm looking forward to be a Notary operator again!&lt;/div&gt;
+
+&lt;h2&gt; Voting Detials &lt;/h2&gt;
+&lt;table&gt;
+ &lt;tr&gt;
+    &lt;td&gt;Pubkey&lt;/td&gt;
+    &lt;td&gt;033777c52a0190f261c6f66bd0e2bb299d30f012dcb8bfff384103211edb8bb207&lt;/td&gt; 
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Raddr&lt;/td&gt;
+    &lt;td&gt;1G5kXhf4tN9ab42znVGcwVVkN96nQaQBR7&lt;/td&gt; 
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2&gt; Notary Node Hardware Specs &lt;/h2&gt;
+&lt;table&gt;
+ &lt;tr&gt;
+   &lt;td&gt;processor&lt;/td&gt;      
+   &lt;td&gt;Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;384KiB L1 cache&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;1536KiB L2 cache&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;12MiB L3 cache&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;64GiB System Memory&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+
+  &lt;td&gt; memory&lt;/td&gt;         
+  &lt;td&gt;16GiB DIMM DDR3 1600 MHz (0.6 ns)&lt;/td&gt;
+
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+  &lt;td&gt;memory&lt;/td&gt;
+  &lt;td&gt;16GiB DIMM DDR3 1600 MHz (0.6 ns)&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;16GiB DIMM DDR3 1600 MHz (0.6 ns)&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+   &lt;td&gt;memory&lt;/td&gt;         
+   &lt;td&gt;16GiB DIMM DDR3 1600 MHz (0.6 ns)&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+  &lt;td&gt; SSD memory&lt;/td&gt;         
+  &lt;td&gt;500GB SSD&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction Hello and Welcome to my Portfolio. My name is Kashif Ali and a dedicated Komodo Notary operator since last year. By profession I'm a software engineer in Test/Automation. My skills &amp;amp; expertise include C, python, Java, Javascript, vbscript, html, APIs(soap/rest), shell programming and shell scripting I had joined SuperNET technologies in 2016 as Test Engineer and have been testing IGUANA core through out, which also includes Agama wallet testing as well which was an excellent experience for me to play around stunning technologies. As a Notary operator, I was elected last year as a notary operator and it was splendid experience for me but a little disappointed because i couldn't perform well. Well I've learnt from my mistakes and I'm looking forward to be a Notary operator again!</summary></entry></feed>
